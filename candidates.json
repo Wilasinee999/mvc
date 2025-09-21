@@ -1,0 +1,68 @@
+[
+    {
+        "candidate_id": "10000001",
+        "first_name": "Anusorn",
+        "last_name": "Somsak",
+        "email": "anusorn.s@email.com"
+    },
+    {
+        "candidate_id": "10000002",
+        "first_name": "Chaiwat",
+        "last_name": "Phonthong",
+        "email": "chaiwat.p@email.com"
+    },
+    {
+        "candidate_id": "10000003",
+        "first_name": "Jiraporn",
+        "last_name": "Khongdee",
+        "email": "jiraporn.k@email.com"
+    },
+    {
+        "candidate_id": "10000004",
+        "first_name": "Nataporn",
+        "last_name": "Manas",
+        "email": "nataporn.m@email.com"
+    },
+    {
+        "candidate_id": "10000005",
+        "first_name": "Pimchanok",
+        "last_name": "Phinyo",
+        "email": "pimchanok.p@email.com"
+    },
+    {
+        "candidate_id": "10000006",
+        "first_name": "Siriwat",
+        "last_name": "Chaiyaphum",
+        "email": "siriwat.c@email.com"
+    },
+    {
+        "candidate_id": "10000007",
+        "first_name": "Thanawat",
+        "last_name": "Sukhum",
+        "email": "thanawat.s@email.com"
+    },
+    {
+        "candidate_id": "10000008",
+        "first_name": "Pornchai",
+        "last_name": "Jaroensap",
+        "email": "pornchai.j@email.com"
+    },
+    {
+        "candidate_id": "10000009",
+        "first_name": "Supaporn",
+        "last_name": "Khamkhuean",
+        "email": "supaporn.k@email.com"
+    },
+    {
+        "candidate_id": "10000010",
+        "first_name": "Wanchai",
+        "last_name": "Wongsa",
+        "email": "wanchai.w@email.com"
+    },
+    {
+        "candidate_id": "99999999",
+        "first_name": "Admin",
+        "last_name": "User",
+        "email": "admin@admin.com"
+    }
+]

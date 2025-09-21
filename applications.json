@@ -1,0 +1,52 @@
+[
+    {
+        "job_id": "11111111",
+        "candidate_id": "10000001",
+        "application_date": "2025-09-21"
+    },
+    {
+        "job_id": "22222222",
+        "candidate_id": "10000001",
+        "application_date": "2025-09-21"
+    },
+    {
+        "job_id": "44444444",
+        "candidate_id": "10000002",
+        "application_date": "2025-09-21"
+    },
+    {
+        "job_id": "11111111",
+        "candidate_id": "10000003",
+        "application_date": "2025-09-20"
+    },
+    {
+        "job_id": "77777777",
+        "candidate_id": "10000004",
+        "application_date": "2025-09-21"
+    },
+    {
+        "job_id": "11111111",
+        "candidate_id": "10000008",
+        "application_date": "2025-09-21"
+    },
+    {
+        "job_id": "10101010",
+        "candidate_id": "10000008",
+        "application_date": "2025-09-21"
+    },
+    {
+        "job_id": "44444444",
+        "candidate_id": "10000008",
+        "application_date": "2025-09-21"
+    },
+    {
+        "job_id": "88888888",
+        "candidate_id": "10000010",
+        "application_date": "2025-09-21"
+    },
+    {
+        "job_id": "11111111",
+        "candidate_id": "10000009",
+        "application_date": "2025-09-21"
+    }
+]

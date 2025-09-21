@@ -1,0 +1,82 @@
+[
+    {
+        "job_id": "11111111",
+        "job_title": "Software Developer",
+        "job_description": "พัฒนาและดูแลเว็บแอปพลิเคชันด้วยภาษา Python.",
+        "company_id": "12345678",
+        "deadline_date": "2025-10-30",
+        "status": "open"
+    },
+    {
+        "job_id": "22222222",
+        "job_title": "Data Scientist",
+        "job_description": "วิเคราะห์ข้อมูลขนาดใหญ่และสร้างโมเดล Machine Learning.",
+        "company_id": "12345678",
+        "deadline_date": "2025-11-15",
+        "status": "open"
+    },
+    {
+        "job_id": "33333333",
+        "job_title": "Product Manager",
+        "job_description": "จัดการวงจรชีวิตผลิตภัณฑ์ตั้งแต่เริ่มต้นจนเปิดตัว.",
+        "company_id": "98765432",
+        "deadline_date": "2025-10-25",
+        "status": "closed"
+    },
+    {
+        "job_id": "44444444",
+        "job_title": "UX/UI Designer",
+        "job_description": "สร้างอินเทอร์เฟซที่ใช้งานง่ายและสวยงาม.",
+        "company_id": "98765432",
+        "deadline_date": "2025-11-05",
+        "status": "open"
+    },
+    {
+        "job_id": "55555555",
+        "job_title": "Network Engineer",
+        "job_description": "ออกแบบและจัดการโครงสร้างพื้นฐานเครือข่าย.",
+        "company_id": "55555555",
+        "deadline_date": "2025-11-20",
+        "status": "open"
+    },
+    {
+        "job_id": "66666666",
+        "job_title": "Full Stack Developer",
+        "job_description": "ทำงานทั้งส่วนหน้าและส่วนหลังของเว็บแอปพลิเคชัน.",
+        "company_id": "12345678",
+        "deadline_date": "2025-11-30",
+        "status": "open"
+    },
+    {
+        "job_id": "77777777",
+        "job_title": "QA Engineer",
+        "job_description": "ทดสอบและตรวจสอบคุณภาพผลิตภัณฑ์ซอฟต์แวร์.",
+        "company_id": "98765432",
+        "deadline_date": "2025-11-10",
+        "status": "open"
+    },
+    {
+        "job_id": "88888888",
+        "job_title": "Database Administrator",
+        "job_description": "จัดการและดูแลฐานข้อมูลของบริษัท.",
+        "company_id": "55555555",
+        "deadline_date": "2025-12-05",
+        "status": "open"
+    },
+    {
+        "job_id": "99999999",
+        "job_title": "Mobile App Developer",
+        "job_description": "พัฒนาแอปพลิเคชันสำหรับแพลตฟอร์ม iOS และ Android.",
+        "company_id": "12345678",
+        "deadline_date": "2025-11-25",
+        "status": "open"
+    },
+    {
+        "job_id": "10101010",
+        "job_title": "Cloud Engineer",
+        "job_description": "จัดการโครงสร้างพื้นฐานและบริการคลาวด์.",
+        "company_id": "55555555",
+        "deadline_date": "2025-12-10",
+        "status": "open"
+    }
+]

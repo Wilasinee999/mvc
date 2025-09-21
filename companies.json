@@ -1,0 +1,20 @@
+[
+    {
+        "company_id": "12345678",
+        "company_name": "TechCorp",
+        "company_email": "contact@techcorp.com",
+        "location": "กรุงเทพมหานคร"
+    },
+    {
+        "company_id": "98765432",
+        "company_name": "InnovateSolutions",
+        "company_email": "info@innovate.co.th",
+        "location": "เชียงใหม่"
+    },
+    {
+        "company_id": "55555555",
+        "company_name": "DigitalFuture Co.",
+        "company_email": "info@digitalfuture.com",
+        "location": "ภูเก็ต"
+    }
+]
